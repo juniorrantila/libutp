@@ -1,7 +1,8 @@
-*.o
 *.a
+*.o
 *.so
+*~
+build
+tags
 ucat
 ucat-static
-tags
-*~
